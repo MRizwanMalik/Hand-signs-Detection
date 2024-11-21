@@ -1,6 +1,4 @@
-Here's the updated README file tailored to your project and contact details:
 
----
 
 # ✋ Hand Sign Language Recognition  
 
